@@ -1,43 +1,69 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
-
-
     <style>
+
+
+
+        /* Hover effect for cards */
+        .card {
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            position: relative;
+        }
+        
+        .card:hover {
+            transform: translateY(-10px);
+            box-shadow: 0 10px 20px rgba(0,0,0,0.2);
+            z-index: 1;
+        }
+
+        .icons-container {
+            text-align: center;
+            margin-top: 20px;
+            font-size: 24px; 
+        }
+
+        .icons-container i {
+            color: #403b3e; 
+            margin: 0 10px; 
+        }
+
+        h1, h3 {
+            text-align: center;
+        }
+
+        /* Maintain card height consistency */
+        .card-img-top {
+            height: 300px;
+            object-fit: cover;
+        }
+  
 
 .icons-container {
   text-align: center;
   margin-top: 20px;
-  font-size: 24px; /* Adjust size as needed */
+  font-size: 24px; 
 }
 
 .icons-container i {
-  color: #403b3e; /* Pink color, change as needed */
-  margin: 0 10px; /* Add space between icons */
+  color: #403b3e; 
+  margin: 0 10px; 
 }
 
     </style>
     <style>
-
-
 
 h1 {
   text-align: center;
 }
 
     </style>
-
-
 <style>
 
 h3 {
   text-align: center;
  
 }
-
-   
-
         </style>
 
       
@@ -335,8 +361,6 @@ h3 {
 
 </div>
 </div>
-
-
 
 <a href="#" class="scroll-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
 
