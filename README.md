@@ -29,18 +29,6 @@
 
 ---
 
-## 📖 Table of Contents
-
-- [About the Project](#-about-the-project)
-- [Features](#-features)
-- [Pages Overview](#-pages-overview)
-- [Tech Stack](#-tech-stack)
-- [Project Structure](#-project-structure)
-- [Getting Started](#-getting-started)
-- [Screenshots](#-screenshots)
-- [Color Palette](#-color-palette)
-- [Designer](#-designer)
-
 ---
 
 ## 🌟 About the Project
@@ -120,41 +108,6 @@ This project was built as a **Final Project for the Web Fronting 2K23 course**, 
 
 ---
 
-## 📂 Project Structure
-
-```
-Rivaj-Website/
-│
-├── 📄 home page.html          # Landing page with hero carousel
-├── 📄 Make-up.html             # Makeup products catalog
-├── 📄 Skin care.html           # Skincare products catalog
-├── 📄 fragnances.html          # Fragrances catalog (men, women, body mists)
-├── 📄 about us.html            # Brand story & mission
-├── 📄 contact us.html          # Contact info & message form
-├── 📄 add to cart.html         # Product detail & cart page
-├── 📄 FORM.html                # Order confirmation form
-├── 📄 README.md                # You are here ✨
-│
-└── 📁 assets/
-    ├── 📁 css/
-    │   ├── variables.css       # CSS custom properties & design tokens
-    │   └── main.css            # Core styles, layout, responsive design
-    │
-    ├── 📁 img/                 # 68 product images, banners & assets
-    │   ├── kk.webp             # Hero banner
-    │   ├── rivaj-cosmetics-logo-*.png  # Brand logo
-    │   ├── *.webp              # Optimized product images
-    │   └── *.jpg               # About & lifestyle photography
-    │
-    └── 📁 vendor/
-        ├── 📁 bootstrap/       # Bootstrap 5 CSS & JS
-        ├── 📁 glightbox/       # Lightbox plugin
-        ├── 📁 swiper/          # Swiper carousel library
-        └── 📁 aos/             # Animate On Scroll library
-```
-
----
-
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -180,21 +133,25 @@ xdg-open "home page.html"  # Linux
 
 ---
 
-## 🖼️ Screenshots
+## 🖼️ Imgs:
 
 <div align="center">
 
 ### 🏠 Home Page
 > Hero carousel with auto-sliding promotional banners, featured face serums, makeup must-haves section, and fragrances showcase.
+<img width="865" height="923" alt="image" src="https://github.com/user-attachments/assets/86799255-92ce-4c3e-9912-d4202b62ad2c" />
 
 ### 💄 Make-up Catalog
 > Grid layout featuring lipsticks, foundations, eyeshadow palettes, and contour kits with hover animations and add-to-cart buttons.
+<img width="865" height="914" alt="image" src="https://github.com/user-attachments/assets/afe4e6eb-0ef9-4ce4-96b4-61d388b16fb0" />
 
 ### 🧴 Skin Care Collection
 > Face washes, serums, rosewater, hydrating masks, and nose strips organized in responsive product cards.
+<img width="864" height="911" alt="image" src="https://github.com/user-attachments/assets/a45eb5cf-15f0-4d3c-a0fc-2aa55cfc2b4d" />
 
 ### 🌸 Fragrances
 > Categorized sections for men's perfumes, women's perfumes, and body mists with elegant product displays.
+<img width="878" height="903" alt="image" src="https://github.com/user-attachments/assets/0d05a142-f332-4fc4-90b8-99477124e015" />
 
 </div>
 
@@ -233,8 +190,6 @@ xdg-open "home page.html"  # Linux
 
 **Asma Shoukat**
 
-*Web Fronting 2K23 — Final Project*
-
 <br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Asma-Shoukat)
@@ -243,16 +198,5 @@ xdg-open "home page.html"  # Linux
 
 ---
 
-<div align="center">
 
-<br>
 
-*© 2024 RIVAJ Replica. Built with 💗 for educational purposes.*
-
-*This project is a student replica created for learning web development. All product images and branding belong to [Rivaj UK](https://rivaj.com/).*
-
-<br>
-
-⬆️ [Back to Top](#-rivaj--e-commerce-website)
-
-</div>
